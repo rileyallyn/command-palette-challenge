@@ -14,5 +14,6 @@ You can find an example page @ https://cmdk.allyn.dev/home
 
 ### Resources
 
-https://getbootstrap.com/docs/5.3/components/modal/
-https://vueuse.org/core/useMagicKeys/
+- https://getbootstrap.com/docs/5.3/components/modal/
+
+- https://vueuse.org/core/useMagicKeys/
