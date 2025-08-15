@@ -2,7 +2,7 @@
 
 Your goal is to build a simple command palette that allows you to navigate across the website using simple actions.
 
-You can find an example page @ [https://cmdk.allyn.dev/home]
+You can find an example page @ https://cmdk.allyn.dev/home
 
 ### Rules
 
@@ -14,5 +14,5 @@ You can find an example page @ [https://cmdk.allyn.dev/home]
 
 ### Resources
 
-[https://getbootstrap.com/docs/5.3/components/modal/]
-[https://vueuse.org/core/useMagicKeys/]
+https://getbootstrap.com/docs/5.3/components/modal/
+https://vueuse.org/core/useMagicKeys/
