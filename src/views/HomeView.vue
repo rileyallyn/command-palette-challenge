@@ -1,6 +1,4 @@
 <script setup>
-import TheWelcome from "../components/TheWelcome.vue";
-
 // get platform
 const platform = navigator.platform;
 </script>

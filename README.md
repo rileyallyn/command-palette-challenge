@@ -1,29 +1,18 @@
 # command-palette-challenge
 
-This template should help get you started developing with Vue 3 in Vite.
+Your goal is to build a simple command palette that allows you to navigate across the website using simple actions.
 
-## Recommended IDE Setup
+You can find an example page @ [https://cmdk.allyn.dev/home]
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### Rules
 
-## Customize configuration
+- No copying code from AI
+  - You may use AI to learn, but all code you write must be your own
+- No using a command palette library
+- You must use bootstrap
+- Your command palette should open on all pages and listen to both cmd + k and ctrl + k. Make sure to cancel default behavior!
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### Resources
 
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Compile and Minify for Production
-
-```sh
-pnpm build
-```
+[https://getbootstrap.com/docs/5.3/components/modal/]
+[https://vueuse.org/core/useMagicKeys/]
